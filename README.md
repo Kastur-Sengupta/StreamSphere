@@ -1,1 +1,2 @@
 # StreamSphere
+YouTube clone project, StreamSphere, is a modern web application built using React JS. It offers a responsive and intuitive platform for users to browse and play videos directly within the app. The clone includes key features such as video sections, custom categories, and channel pages, giving users a YouTube-like experience. The project utilizes Material @UI for sleek design, React Router DOM for seamless navigation, and Axios for fetching video data via REST APIs. 
